@@ -75,4 +75,4 @@ Before running the application, you must have the following installed and config
 
 ## License
 
-This project is open-source. Please refer to the LICENSE file for details. (If you don't have one, consider using an MIT or Apache 2.0 license).
+This project is open-source. Please refer to the LICENSE file for details.
