@@ -35,7 +35,7 @@ class MainWindow(QMainWindow):
     
     def initUI(self):
         
-        self.line_edit.setGeometry(10,10,200,40)x
+        self.line_edit.setGeometry(10,10,200,40)
         self.line_edit.placeholderText("Enter your name")
         self.line_edit.setStyleSheet("font-size:25px;""font-family:arial")
         self.button.setGeometry(210,10,100,40)

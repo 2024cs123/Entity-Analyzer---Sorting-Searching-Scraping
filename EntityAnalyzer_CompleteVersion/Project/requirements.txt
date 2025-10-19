@@ -1,0 +1,23 @@
+# Python Packages required for the Entity Analyzer / AI Scraper
+
+# GUI Framework
+PyQt5
+
+# Data Handling
+pandas
+numpy
+
+# Web Scraping and HTML Parsing
+selenium
+beautifulsoup4
+
+# AI/LLM Integration 
+langchain
+langchain-core
+langchain-community
+
+# Async Execution (PyQt QRunnable uses standard libraries)
+# No explicit requirements needed for standard multiprocessing/threading.
+
+#Optional: For better PDF/HTML parsing or faster DataFrame operations
+html5lib
